@@ -1,0 +1,20 @@
+           body {
+			     background-color:LightGray;
+				}
+		   h1   { color:white;
+		          padding:30px;
+				  text-align:center;
+				  background-color:orange;
+				}
+		   #logo  {position:absolute;
+                   left:150px;
+                   top:30px;
+                  }
+		    h4   { color:black;
+			       text-align:center;
+				   font-size:200%;
+			      }
+			       
+
+		
+			
